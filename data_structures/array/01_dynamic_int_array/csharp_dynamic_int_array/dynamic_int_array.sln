@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic_int_array", "dynamic_int_array\dynamic_int_array.csproj", "{1677B43D-4F87-4124-BA3E-DD3BDE9EEEB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dynamic_int_array", "dynamic_int_array\dynamic_int_array.csproj", "{1677B43D-4F87-4124-BA3E-DD3BDE9EEEB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic_int_array_tests", "dynamic_int_arrat_tests\dynamic_int_array_tests.csproj", "{4D4723CB-C155-43DC-9EAD-B44950331612}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1677B43D-4F87-4124-BA3E-DD3BDE9EEEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1677B43D-4F87-4124-BA3E-DD3BDE9EEEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1677B43D-4F87-4124-BA3E-DD3BDE9EEEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4723CB-C155-43DC-9EAD-B44950331612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4723CB-C155-43DC-9EAD-B44950331612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4723CB-C155-43DC-9EAD-B44950331612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4723CB-C155-43DC-9EAD-B44950331612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
