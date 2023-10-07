@@ -4,26 +4,11 @@ Welcome to the Dynamic Integer Array Implementation project in C#! This reposito
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
 - [Implementation Steps](#implementation-steps)
 
 ## Introduction
 A dynamic array is a versatile data structure that can grow in size as needed. This project will walk you through the process of creating your own dynamic integer array in C# step by step. By the end, you will have a comprehensive understanding of how dynamic arrays work and how to implement them in your own projects.
 
-## Getting Started
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/dynamic-int-array-csharp.git
-
-   
-2. Open the project in your preferred C# development environment (e.g., Visual Studio, Visual Studio Code).
-
-3. Explore the code files in the repository to understand the initial implementation.
-
-4. Start with the initial code and proceed to implement each step described below.
 
 ## Implementation Steps
 The dynamic integer array implementation is divided into several steps. You can track each step by checking the commit tags in the repository. Here are the  functionality tasklist:
