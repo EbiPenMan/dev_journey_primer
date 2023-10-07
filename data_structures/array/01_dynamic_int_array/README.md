@@ -6,8 +6,6 @@ Welcome to the Dynamic Integer Array Implementation project in C#! This reposito
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Implementation Steps](#implementation-steps)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 A dynamic array is a versatile data structure that can grow in size as needed. This project will walk you through the process of creating your own dynamic integer array in C# step by step. By the end, you will have a comprehensive understanding of how dynamic arrays work and how to implement them in your own projects.
